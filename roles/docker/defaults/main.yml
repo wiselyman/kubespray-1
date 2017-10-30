@@ -14,5 +14,5 @@ docker_dns_servers_strict: yes
 
 docker_container_storage_setup: false
 
-docker_rh_repo_base_url: 'https://mirrors.aliyun.com/docker-engine/yum/repo/main/centos/7'
-docker_rh_repo_gpgkey: 'http://mirrors.aliyun.com/docker-engine/yum/gpg'
+docker_rh_repo_base_url: 'https://yum.dockerproject.org/repo/main/centos/7'
+docker_rh_repo_gpgkey: 'https://yum.dockerproject.org/gpg'
